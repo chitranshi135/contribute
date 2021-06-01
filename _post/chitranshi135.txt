@@ -1,1 +1,3 @@
-NAME : Chitranshi Srivastava
+Name : Chitranshi Srivastava
+Github Username : chitranshi135
+What you learned today : Learned about open source contributions
